@@ -26,8 +26,6 @@
 
 ## About Me
 
-I'm a **BCom Computer Science student at Belgium Campus ITversity**, specialising in **Software Engineering**.
-
 I enjoy building software, solving problems and understanding how systems work beneath the surface. My long-term direction is **Cyber Security**, where I hope to combine my software development background with security-focused thinking.
 
 🎓 Completing my academic studies in **2026** <br>
