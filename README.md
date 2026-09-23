@@ -107,11 +107,11 @@ I'm currently interested in connecting with developers, security professionals a
 If you're working on something interesting, have advice to share, or simply want to connect:
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/tammy-fourie-7131a6360/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:tammyfourie2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
