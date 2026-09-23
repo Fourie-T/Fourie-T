@@ -79,18 +79,6 @@ You'll find projects involving:
 
 ---
 
-## 🌱 Right Now
-
-```text
-🎓  Final academic year of BCom Computer Science
-💻  Building software and improving my development skills
-🔐  Exploring Cyber Security
-🧠  Learning by building, breaking and understanding things
-💼  Looking for a 2027 Internship / WIL opportunity
-```
-
----
-
 ## ⚡ A Little More About Me
 
 ```yaml
@@ -107,7 +95,7 @@ outside_of_code:
   - 🏃 Staying active
   - ☕ Probably drinking coffee while debugging
 
-current_goal: "Become a better developer every day and move deeper into Cyber Security."
+current_goal: "To plan my work and work my plan"
 ```
 
 ---
