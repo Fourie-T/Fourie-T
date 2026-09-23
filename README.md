@@ -30,10 +30,10 @@ I'm a **BCom Computer Science student at Belgium Campus ITversity**, specialisin
 
 I enjoy building software, solving problems and understanding how systems work beneath the surface. My long-term direction is **Cyber Security**, where I hope to combine my software development background with security-focused thinking.
 
-🎓 Completing my academic studies in **2026**
-💼 Seeking an **internship / Work-Integrated Learning opportunity for 2027**
-🔐 Growing my knowledge in **Cyber Security**
-💻 Currently working primarily with **Python, Java, C# and SQL**
+🎓 Completing my academic studies in **2026** <br>
+💼 Seeking an **internship / Work-Integrated Learning opportunity for 2027** <br>
+🔐 Growing my knowledge in **Cyber Security** <br>
+💻 Currently working primarily with **Python, Java, C# and SQL** <br>
 🚀 Always looking for opportunities to turn theory into real-world experience
 
 ---
