@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **BCom Computer Science student at Belgium Campus ITversity**, specialising in **Software Engineering**.
 
@@ -62,7 +62,7 @@ I enjoy building software, solving problems and understanding how systems work b
 
 ---
 
-## 📂 What You'll Find Here
+## What You'll Find Here
 
 This GitHub is where I document my growth as a developer and experiment with different technologies.
 
@@ -79,7 +79,7 @@ You'll find projects involving:
 
 ---
 
-## ⚡ A Little More About Me
+## A Little More About Me
 
 ```yaml
 interests:
@@ -100,7 +100,7 @@ current_goal: "To plan my work and work my plan"
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm currently interested in connecting with developers, security professionals and organisations offering **internship or Work-Integrated Learning opportunities for 2027**.
 
@@ -118,10 +118,3 @@ If you're working on something interesting, have advice to share, or simply want
 
 ---
 
-<div align="center">
-
-### `Code. Learn. Secure. Repeat.` 🔐
-
-<sub>Thanks for stopping by 👋</sub>
-
-</div>
