@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Tammy 👋
 
 ### Software Engineering Student · Aspiring Cybersecurity Professional
 
