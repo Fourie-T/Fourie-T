@@ -100,18 +100,6 @@ current_goal: "To plan my work and work my plan"
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm currently interested in connecting with developers, security professionals and organisations offering **internship or Work-Integrated Learning opportunities for 2027**.
