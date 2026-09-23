@@ -36,7 +36,7 @@ I enjoy building software, solving problems and understanding how systems work b
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -80,20 +80,20 @@ You'll find projects involving:
 ## A Little More About Me
 
 ```yaml
-interests:
+Interests:
   - Software Engineering
   - Cyber Security
   - Technology
   - Problem Solving
 
-outside_of_code:
+Outside of code:
   - 🎸 Playing guitar
   - 🎧 Listening to music
   - 🧠 Learning how things work
   - 🏃 Staying active
   - ☕ Probably drinking coffee while debugging
 
-current_goal: "To plan my work and work my plan"
+Current Goal: "To plan my work and work my plan"
 ```
 
 ---
